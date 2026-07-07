@@ -19,15 +19,13 @@
   <img src="https://img.shields.io/badge/SCIPY-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
   <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBOOST-FF6600?style=flat-square&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/PLOTLY-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/SEABORN-1271A2?style=flat-square&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATSMODELS-169B62?style=flat-square&logo=statsmodels&logoColor=white" />
   <img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/JUPYTER_NOTEBOOK-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/REDASH-FF7964?style=flat-square&logo=redash&logoColor=white" />
   <img src="https://img.shields.io/badge/DATALENS-000000?style=flat-square&logo=datalens&logoColor=white" />
-  <img src="https://img.shields.io/badge/AIRFLOW-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/API-005571?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" />
+  
 </p>
 
 ## 🚀 Featured Projects
