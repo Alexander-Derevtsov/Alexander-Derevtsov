@@ -1,6 +1,6 @@
 ## Alexander Derevtsov
 
-Mathematics student at HSE University.
+🎓 Mathematics student at HSE University.
 
 Interested in mathematical statistics, machine learning and applications of mathematical methods to data analysis.
 
