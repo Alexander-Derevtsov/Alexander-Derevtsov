@@ -2,7 +2,9 @@
 
 🎓 Mathematics student at HSE University.
 
-Interested in mathematical statistics, machine learning and applications of mathematical methods to data analysis.
+Interested in mathematical statistics, machine learning and applications of mathematical methods to data analysis.  
+
+https://telegram-badge.vercel.app/api/telegram-badge?channelId=@alexander_drv
 
 <!--
 **Alexander-Derevtsov/Alexander-Derevtsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
