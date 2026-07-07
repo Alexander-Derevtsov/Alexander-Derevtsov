@@ -11,22 +11,23 @@
   
 ## 🛠 Tech Stack
 
-**Languages**
-- Python
-- SQL
-
-**Libraries**
-- Pandas
-- NumPy
-- SciPy
-- scikit-learn
-- Optuna
-- Matplotlib
-
-**Tools**
-- Git
-- GitHub
-- Jupyter Notebook
+<p align="left">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NUMPY-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/PLOTLY-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCIPY-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEABORN-1271A2?style=flat-square&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUPYTER_NOTEBOOK-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/REDASH-FF7964?style=flat-square&logo=redash&logoColor=white" />
+  <img src="https://img.shields.io/badge/DATALENS-000000?style=flat-square&logo=datalens&logoColor=white" />
+  <img src="https://img.shields.io/badge/AIRFLOW-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-005571?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 ## 🚀 Featured Projects
 
