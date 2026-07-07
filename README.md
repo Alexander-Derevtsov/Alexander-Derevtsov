@@ -4,7 +4,7 @@
 
 Interested in mathematical statistics, machine learning and applications of mathematical methods to data analysis.  
 
-[![Telegram](https://shields.io)](https://t.me/alexander_drv)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexander_drv)
 
 <!--
 **Alexander-Derevtsov/Alexander-Derevtsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
