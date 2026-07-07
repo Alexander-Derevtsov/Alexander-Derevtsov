@@ -1,4 +1,8 @@
-## Hi there 👋
+## Alexander Derevtsov
+
+Mathematics student at HSE University.
+
+Interested in machine learning, mathematical statistics and applications of mathematical methods to data analysis.
 
 <!--
 **Alexander-Derevtsov/Alexander-Derevtsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
