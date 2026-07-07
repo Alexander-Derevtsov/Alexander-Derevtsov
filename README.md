@@ -29,9 +29,6 @@
 </p>
 
 ## Featured Projects
-
-## Projects
-
 | Project | Description | Stack |
 |---|---|---|
 | [Product Analytics Marketplace](ссылка) | Cohort analysis, retention calculation, product metrics analysis, hypothesis prioritization using ICE Framework | Python, Pandas, Matplotlib |
