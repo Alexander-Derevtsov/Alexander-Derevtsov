@@ -28,35 +28,17 @@
   
 </p>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📈 Product Analytics of Marketplace
-Cohort analysis, Retention, Product/Market Fit, ICE Framework.
+## Projects
 
-🔗 Repository: ...
-
----
-
-### 📊 A/B Testing
-Statistical hypothesis testing and business recommendations.
-
-🔗 Repository: ...
-
----
-
-### 🎮 Dota 2 Match Prediction
-Feature engineering, Logistic Regression, Optuna.
-
-🔗 Repository: ...
-
----
-
-### 🤖 Linear Regression from Scratch
-Gradient Descent, SGD, AdaGrad, Ridge, Lasso.
-
-🔗 Repository: ...
-
----
+| Project | Description | Stack |
+|---|---|---|
+| [Product Analytics Marketplace](ссылка) | Cohort analysis, retention calculation, product metrics analysis, hypothesis prioritization using ICE Framework | Python, Pandas, Matplotlib |
+| [A/B Testing](ссылка) | Statistical analysis of experiment results, hypothesis testing and data-driven recommendations | Python, SQL, SciPy |
+| [Dota 2 Match Prediction](ссылка) | Machine learning pipeline for predicting match outcomes: preprocessing, feature engineering, hyperparameter optimization | Python, scikit-learn, Optuna |
+| [Linear Regression from Scratch](ссылка) | Implementation of linear regression with gradient descent, SGD, AdaGrad, Ridge and Lasso regularization | Python, NumPy |
+| [Decision Tree from Scratch](ссылка) | Implementation and analysis of decision tree algorithm | Python, NumPy |
 
 ## 📚 Education
 
