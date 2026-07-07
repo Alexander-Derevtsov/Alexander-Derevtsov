@@ -35,7 +35,6 @@
 | [A/B Testing](ссылка) | Statistical analysis of experiment results, hypothesis testing and data-driven recommendations | Python, SQL, SciPy |
 | [Dota 2 Match Prediction](ссылка) | Machine learning pipeline for predicting match outcomes: preprocessing, feature engineering, hyperparameter optimization | Python, scikit-learn, Optuna |
 | [Linear Regression from Scratch](ссылка) | Implementation of linear regression with gradient descent, SGD, AdaGrad, Ridge and Lasso regularization | Python, NumPy |
-| [Decision Tree from Scratch](ссылка) | Implementation and analysis of decision tree algorithm | Python, NumPy |
 
 ## 📚 Education
 
