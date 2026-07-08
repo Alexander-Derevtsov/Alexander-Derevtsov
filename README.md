@@ -33,7 +33,7 @@
 |---|---|---|
 | [Product Analytics Marketplace](https://github.com/Alexander-Derevtsov/Product-Analytics-Marketplace) | Cohort analysis, retention calculation, product metrics analysis, hypothesis prioritization using ICE Framework | Python, Pandas, Matplotlib |
 | [A/B Testing](https://github.com/Alexander-Derevtsov/A-B-testing) | Statistical analysis of experiment results, hypothesis testing and data-driven recommendations | Python, SciPy |
-| [Dota 2 Match Prediction](ссылка) | Machine learning pipeline for predicting match outcomes: preprocessing, feature engineering, hyperparameter optimization | Python, scikit-learn, Optuna |
+| [Dota 2 Match Prediction](https://github.com/Alexander-Derevtsov/Dota-2-Match-Prediction) | Machine learning pipeline for predicting match outcomes: preprocessing, feature engineering, hyperparameter optimization | Python, scikit-learn, Optuna |
 | [Linear Regression from Scratch](ссылка) | Implementation of linear regression with gradient descent, SGD, AdaGrad, Ridge and Lasso regularization | Python, NumPy |
 
 ## 📚 Education
